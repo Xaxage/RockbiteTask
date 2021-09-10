@@ -1,3 +1,5 @@
+package first_task_sandship_storage;
+
 public class Test {
     public static void main(String[] args) {
         //I could have used Scanner and exception handling for more beautiful code,

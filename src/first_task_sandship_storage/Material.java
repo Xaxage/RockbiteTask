@@ -1,3 +1,5 @@
+package first_task_sandship_storage;
+
 //Little minecraft Industrial craft and Thermal expansion mod skills required here *
 public enum Material {
 

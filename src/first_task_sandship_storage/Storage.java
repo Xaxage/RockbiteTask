@@ -1,3 +1,5 @@
+package first_task_sandship_storage;
+
 import java.util.EnumMap;
 import java.util.Map;
 
